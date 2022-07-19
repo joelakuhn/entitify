@@ -2,7 +2,7 @@
 
 `entitify` is a cli utility for converting utf-8 text to html entities.
 
-# Usage
+## Usage
 
 ```
 Usage:
@@ -15,7 +15,7 @@ Optional arguments:
   -d,--decimal          Print all entities as decimal
 ```
 
-# Examples
+## Examples
 
 ```shell
 $ echo 'Entré' | entitify
